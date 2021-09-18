@@ -1,16 +1,44 @@
-### Hi there 👋
+<link rel="stylesheet" type="text/css" media="all" href="style.css" />
 
-<!--
-**MatteoCourquin/MatteoCourquin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="30%" src="https://www.frenchweb.fr/wp-content/uploads/2016/11/nicolas-hachet-2016.gif" data-canonical-src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif?cid=ecf05e47yng7ezmnf7at7y8xwpcd3h8eo702fjopjc4tvkxt&amp;rid=giphy.gif&amp;ct=g" style="max-width: 100%;">
+
+<strong style="font-size: 2em;"># Hi there, I'm Mat_Techno ! </strong><br>
+<i style="font-size: 0.9em;">( Mat for Matteo | Techno for Technologies )</i> <br>
+
+---
+
+<strong style="font-size: 1.6em;">I study developement web on <a href="https://www.iim.fr/">IIM</a></strong>
+
+---
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 •I’m currently learning dev on IIM <br>
+💬 •Ask me about my school path <br>
+📫 •How to reach me: <a href="mailto:matteo.courquin@gmail.com">matteo.courquin@gmail.com</a> <br>
+
+
+
+
+---
+
+<strong style="font-size: 1.6em;">Technologies :</strong>
+<div>
+
+<img src="" alt="logo html">
+<img src="" alt="logo css">
+<img src="" alt="logo SCSS">
+<img src="" alt="logo javascript">
+<img src="" alt="logo php">
+<img src="" alt="logo vue">
+
+
+</div>
+
+---
+
+<p style="text-align: center; font-size: 1.8em;"><i>Stay awesome !</i></p>
+
+---
+
+  
