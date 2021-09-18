@@ -3,11 +3,11 @@
 <img align="right" width="30%" src="https://www.frenchweb.fr/wp-content/uploads/2016/11/nicolas-hachet-2016.gif" data-canonical-src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif?cid=ecf05e47yng7ezmnf7at7y8xwpcd3h8eo702fjopjc4tvkxt&amp;rid=giphy.gif&amp;ct=g" style="max-width: 100%;">
 
 # Hi there, I'm Mat_Techno ! 
-###( Mat for Matteo | Techno for Technologies )
+### ( Mat for Matteo | Techno for Technologies )
 
 ---
 
-##I study developement web on <a href="https://www.iim.fr/">IIM</a>
+## I study developement web on <a href="https://www.iim.fr/">IIM</a>
 
 ---
 
