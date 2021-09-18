@@ -4,12 +4,8 @@
 
 # Hi there, I'm Mat_Techno ! 
 ### ( Mat for Matteo | Techno for Technologies )
-
----
-
 ## I study developement web on <a href="https://www.iim.fr/">IIM</a>
 
----
 
 Here are some ideas to get you started:
 
@@ -35,10 +31,5 @@ Here are some ideas to get you started:
 
 </div>
 
----
 
-<p style="text-align: center; font-size: 1.8em;"><i>Stay awesome !</i></p>
-
----
-
-  
+<p text-align= "center" font-size="1.8em"><i>Stay awesome !</i></p>
