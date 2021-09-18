@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 </div>
 
 
-<p text-align= "center" font-size="1.8em"><i>Stay awesome !</i></p>
+<p text-align= "center" font-size="1.8em">Stay awesome !</p>
