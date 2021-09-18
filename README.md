@@ -2,12 +2,12 @@
 
 <img align="right" width="30%" src="https://www.frenchweb.fr/wp-content/uploads/2016/11/nicolas-hachet-2016.gif" data-canonical-src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif?cid=ecf05e47yng7ezmnf7at7y8xwpcd3h8eo702fjopjc4tvkxt&amp;rid=giphy.gif&amp;ct=g" style="max-width: 100%;">
 
-<strong style="font-size: 2em;"># Hi there, I'm Mat_Techno ! </strong><br>
-<i style="font-size: 0.9em;">( Mat for Matteo | Techno for Technologies )</i> <br>
+# Hi there, I'm Mat_Techno ! 
+###( Mat for Matteo | Techno for Technologies )
 
 ---
 
-<strong style="font-size: 1.6em;">I study developement web on <a href="https://www.iim.fr/">IIM</a></strong>
+##I study developement web on <a href="https://www.iim.fr/">IIM</a>
 
 ---
 
