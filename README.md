@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 <strong style="font-size: 1.6em;">Technologies :</strong>
 
 <div align="center">  
-    <img src="assets/html.png" alt="logo html">
-    <img src="assets/css.png" alt="logo css">
-    <img src="assets/javascript.png" alt="logo javascript">
-    <img src="assets/php.png" alt="logo php">
-    <img src="assets/sass.png" alt="logo SCSS">
-    <img src="assets/vue.png" alt="logo vue">
-    <img src="assets/react.png" alt="logo react">
+    <img width="65" height="auto" src="assets/html.png" alt="logo html">
+    <img width="65" height="auto" src="assets/css.png" alt="logo css">
+    <img width="65" height="auto" src="assets/javascript.png" alt="logo javascript">
+    <img width="65" height="auto" src="assets/php.png" alt="logo php">
+    <img width="65" height="auto" src="assets/sass.png" alt="logo SCSS">
+    <img width="65" height="auto" src="assets/vue.png" alt="logo vue">
+    <img width="65" height="auto" src="assets/react.png" alt="logo react">
 </div>
 
 
