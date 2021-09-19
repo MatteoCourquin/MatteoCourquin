@@ -40,3 +40,11 @@
 ## ***Stay awesome !***
 
 </div>
+
+<style>
+
+.markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4, .markdown-body h5, .markdown-body h6{
+    border-bottom: none !important;
+}
+
+</style>
