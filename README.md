@@ -8,14 +8,15 @@
 ## I study developement web on <a href="https://www.iim.fr/">IIM</a>
 
 
-Here are some ideas to get you started:
+**Here are some ideas to get you started :**
 
 🌱 •I’m currently learning dev on IIM <br>
 💬 •Ask me about my school path <br>
 📫 •How to reach me: <a href="mailto:matteo.courquin@gmail.com">matteo.courquin@gmail.com</a> <br>
 
+---
 
-## **Technologies I use :**
+**Technologies I use :**
 
 <div align="center">  
     <img width="65" height="auto" margin="10px" src="assets/html.png" alt="logo html">
