@@ -2,14 +2,14 @@
 
 <img align="right" width="30%" src="https://www.frenchweb.fr/wp-content/uploads/2016/11/nicolas-hachet-2016.gif" data-canonical-src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif?cid=ecf05e47yng7ezmnf7at7y8xwpcd3h8eo702fjopjc4tvkxt&amp;rid=giphy.gif&amp;ct=g" style="max-width: 100%;">
 
+<div>
+
 # **Hi there, I'm Mat_Techno !** 
 *( Mat for Matteo | Techno for Technologies )*
-
----
+</div>
 
 ## I study developement web on <a href="https://www.iim.fr/">IIM</a>
 
----
 
 **Here are some ideas to get you started :**
 
@@ -17,23 +17,29 @@
 💬 •Ask me about my school path <br>
 📫 •How to reach me: <a href="mailto:matteo.courquin@gmail.com">matteo.courquin@gmail.com</a> <br>
 
----
+&nbsp;
 
 **Technologies I use :**
 
 <div align="center">  
     <img width="65" height="auto" margin="10px" src="assets/html.png" alt="logo html">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img width="65" height="auto" margin="10px" src="assets/css.png" alt="logo css">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img width="65" height="auto" margin="10px" src="assets/javascript.png" alt="logo javascript">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img width="65" height="auto" margin="10px" src="assets/php.png" alt="logo php">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img width="65" height="auto" margin="10px" src="assets/sass.png" alt="logo SCSS">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img width="65" height="auto" margin="10px" src="assets/vue.png" alt="logo vue">
-    <img width="65" height="auto" margin="10px" src="assets/react.png" alt="logo react">
+    <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+    <!-- <img width="65" height="auto" margin="10px" src="assets/react.png" alt="logo react"> -->
 </div>
 
 
-<p align= "center"> 
+<div align= "center"> 
 
 ## ***Stay awesome !***
 
-</p>
+</div>
