@@ -15,23 +15,21 @@ Here are some ideas to get you started:
 📫 •How to reach me: <a href="mailto:matteo.courquin@gmail.com">matteo.courquin@gmail.com</a> <br>
 
 
-
-
----
-
-<strong style="font-size: 1.6em;">Technologies :</strong>
+## **Technologies I use :**
 
 <div align="center">  
-    <img width="65" height="auto" src="assets/html.png" alt="logo html">
-    <img width="65" height="auto" src="assets/css.png" alt="logo css">
-    <img width="65" height="auto" src="assets/javascript.png" alt="logo javascript">
-    <img width="65" height="auto" src="assets/php.png" alt="logo php">
-    <img width="65" height="auto" src="assets/sass.png" alt="logo SCSS">
-    <img width="65" height="auto" src="assets/vue.png" alt="logo vue">
-    <img width="65" height="auto" src="assets/react.png" alt="logo react">
+    <img width="65" height="auto" margin="10px" src="assets/html.png" alt="logo html">
+    <img width="65" height="auto" margin="10px" src="assets/css.png" alt="logo css">
+    <img width="65" height="auto" margin="10px" src="assets/javascript.png" alt="logo javascript">
+    <img width="65" height="auto" margin="10px" src="assets/php.png" alt="logo php">
+    <img width="65" height="auto" margin="10px" src="assets/sass.png" alt="logo SCSS">
+    <img width="65" height="auto" margin="10px" src="assets/vue.png" alt="logo vue">
+    <img width="65" height="auto" margin="10px" src="assets/react.png" alt="logo react">
 </div>
 
 
-#<p align= "center"> 
+<p align= "center"> 
+
 ## ***Stay awesome !***
+
 </p>
