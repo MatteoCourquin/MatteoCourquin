@@ -18,7 +18,7 @@
 
 ## My socialmedia
 
-<a href="https://instagram.com/10gust10"><img src="https://img.shields.io/badge/Mat_Techno-e1306c?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Mat_Techno-e1306c?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://github.com/MatteoCourquin"><img src="https://img.shields.io/badge/Mat_Techno-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/matteo-courquin-6658b0207/"><img src="https://img.shields.io/badge/Matteo_Techno-00A2FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
