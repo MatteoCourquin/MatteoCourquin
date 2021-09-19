@@ -20,19 +20,17 @@ Here are some ideas to get you started:
 ---
 
 <strong style="font-size: 1.6em;">Technologies :</strong>
-<div>
 
-<img src="" alt="logo html">
-<img src="" alt="logo css">
-<img src="" alt="logo SCSS">
-<img src="" alt="logo javascript">
-<img src="" alt="logo php">
-<img src="" alt="logo vue">
-
-
+<div align="center">  
+    <img src="assets/html.png" alt="logo html">
+    <img src="assets/css.png" alt="logo css">
+    <img src="assets/scss.png" alt="logo SCSS">
+    <img src="assets/javascript.png" alt="logo javascript">
+    <img src="assets/php.png" alt="logo php">
+    <img src="assets/vue.png" alt="logo vue">
 </div>
 
 
-##<p align= "center"> 
-## ***Stay awesome !***
+<p align= "center"> 
+***Stay awesome !***
 </p>
