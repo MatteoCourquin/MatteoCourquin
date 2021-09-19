@@ -42,7 +42,7 @@
     <!-- <img width="65" height="auto" margin="10px" src="assets/react.png" alt="logo react"> -->
 </div>
 
-<div class=".line"></div>
+<div class="line"></div>
 
 
 <div align= "center"> 
