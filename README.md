@@ -5,8 +5,11 @@
 # **Hi there, I'm Mat_Techno !** 
 *( Mat for Matteo | Techno for Technologies )*
 
+---
+
 ## I study developement web on <a href="https://www.iim.fr/">IIM</a>
 
+---
 
 **Here are some ideas to get you started :**
 
