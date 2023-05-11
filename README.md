@@ -11,13 +11,10 @@
 
 📫 •How to reach me: <a href="mailto:matteo.courquin@gmail.com">matteo.courquin@gmail.com</a> <br>
 
-&nbsp;&nbsp;
 
-## My socialmedia
-
-<!-- <a href="#"><img src="https://img.shields.io/badge/Matteo Courquin-e1306c?style=for-the-badge&logo=instagram&logoColor=white" /></a> -->
-<a href="https://github.com/MatteoCourquin"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/matteo-courquin-6658b0207/"><img src="https://img.shields.io/badge/LinkedIn-00A2FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://matteo.courqu.in/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-courquin//)
 
 &nbsp;&nbsp;
 
