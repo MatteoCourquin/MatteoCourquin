@@ -11,5 +11,3 @@ I'm a full stack developer.
 ## 🛠 Skills
 
 React / Angular / Vue / AWS
-
-<img src="https://myreadme.vercel.app/api/embed/MatteoCourquin?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
