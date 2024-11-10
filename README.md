@@ -10,4 +10,4 @@ I'm a full stack developer.
 
 ## 🛠 Skills
 
-React / Angular / Vue / AWS
+NextJS • GSAP • Sanity • AWS
