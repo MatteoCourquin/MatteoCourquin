@@ -1,10 +1,10 @@
-# 👋 Bonjour, je suis Matteo
+# 👋 Hello, I'm Matteo
 
-### ✨ Développeur Créatif | Co-fondateur @Metabole Studio
+### ✨ Creative Developer | Co-founder @Metabole Studio
 
-Je transforme des concepts créatifs en expériences web interactives et immersives. À la frontière entre développement et design, j'apporte une approche innovante pour créer des sites web qui racontent des histoires.
+I transform creative concepts into interactive and immersive web experiences. At the intersection of development and design, I bring an innovative approach to creating websites that tell stories.
 
-### 🚀 Technologies & Outils
+### 🚀 Technologies & Tools
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -18,16 +18,16 @@ Je transforme des concepts créatifs en expériences web interactives et immersi
 ![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 🔭 Actuellement
+### 🔭 Currently
 
-- Co-fondateur de [Metabole Studio](https://www.metabole.studio) - Nous créons des expériences web uniques qui mêlent animation, 3D et storytelling
-- Développement d'interfaces utilisateur hautement interactives avec GSAP et Three.js
-- Passionné par l'optimisation des performances web et l'accessibilité
+- Co-founder of [Metabole Studio](https://metabole.studio) - We create unique web experiences blending animation, 3D and storytelling
+- Development of highly interactive user interfaces with GSAP and Three.js
+- Passionate about web performance optimization and accessibility
 
-### 💼 Projets Récents
+### 💼 Recent Projects
 
-- 🌐 [Metabole Studio](https://metabole.studio/) - Site de l'agence Metabole Studio avec animations avancées et expériences interactives
-- 🎨 [Jérôme Bezeau](https://jeromebezeau.com/) - Portfolio artistique développé en TypeScript
+- 🌐 [Metabole Studio](https://metabole.studio/) - Metabole Studio agency website with advanced animations and interactive experiences
+- 🎨 [Jérôme Bezeau](https://jeromebezeau.com/) - Artistic portfolio developed in TypeScript
 
 ### 📫 Contact
 
@@ -43,4 +43,4 @@ Je transforme des concepts créatifs en expériences web interactives et immersi
 
 ---
 
-*"Un code propre en vaut 10"*
+*"Clean code is worth ten times more"*
