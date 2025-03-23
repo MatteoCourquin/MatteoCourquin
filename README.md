@@ -26,8 +26,8 @@ Je transforme des concepts créatifs en expériences web interactives et immersi
 
 ### 💼 Projets Récents
 
-- 🌐 [Metabole Studio](https://www.metabole.studio/) - Site de l'agence Metabole Studio avec animations avancées et expériences interactives
-- 🎨 [Jérôme Bezeau](https://www.jeromebezeau.com/) - Portfolio artistique développé en TypeScript
+- 🌐 [Metabole Studio](https://metabole.studio/) - Site de l'agence Metabole Studio avec animations avancées et expériences interactives
+- 🎨 [Jérôme Bezeau](https://jeromebezeau.com/) - Portfolio artistique développé en TypeScript
 
 ### 📫 Contact
 
@@ -43,4 +43,4 @@ Je transforme des concepts créatifs en expériences web interactives et immersi
 
 ---
 
-*"Le code est poésie en mouvement."*
+*"Un code propre en vaut 10"*
