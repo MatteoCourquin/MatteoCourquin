@@ -15,7 +15,7 @@ Je transforme des concepts créatifs en expériences web interactives et immersi
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Sanity](https://img.shields.io/badge/-Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -30,11 +30,6 @@ Je transforme des concepts créatifs en expériences web interactives et immersi
 
 - 🌐 [METABOLE-PROVISIONAL](https://github.com/MatteoCourquin/METABOLE-PROVISIONAL) - Site de l'agence Metabole Studio avec animations avancées et expériences interactives
 - 🎨 [JEROME-BEZEAU](https://github.com/MatteoCourquin/JEROME-BEZEAU) - Portfolio développé en TypeScript
-
-### 📊 Statistiques GitHub
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoCourquin&layout=compact&theme=tokyonight)](https://github.com/MatteoCourquin)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MatteoCourquin&show_icons=true&theme=tokyonight)](https://github.com/MatteoCourquin)
 
 ### 📫 Contact
 
