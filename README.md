@@ -15,7 +15,9 @@ Je transforme des concepts créatifs en expériences web interactives et immersi
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Sanity](https://img.shields.io/badge/-Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
-![AWVS](https://img.shields.io/badge/-AWVS-007ACC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0xIDE1aC0ydi02aDJ2NnptMC04aC0yVjdoMnYyeiI+PC9wYXRoPjwvc3ZnPg==&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 🔭 Actuellement
@@ -26,12 +28,13 @@ Je transforme des concepts créatifs en expériences web interactives et immersi
 
 ### 💼 Projets Récents
 
-<a href="https://github.com/MatteoCourquin/METABOLE-PROVISIONAL">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoCourquin&repo=METABOLE-PROVISIONAL&theme=react&bg_color=0D1117&border_color=88CE02" />
-</a>
-<a href="https://github.com/MatteoCourquin/JEROME-BEZEAU">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoCourquin&repo=JEROME-BEZEAU&theme=react&bg_color=0D1117&border_color=88CE02" />
-</a>
+- 🌐 [METABOLE-PROVISIONAL](https://github.com/MatteoCourquin/METABOLE-PROVISIONAL) - Site de l'agence Metabole Studio avec animations avancées et expériences interactives
+- 🎨 [JEROME-BEZEAU](https://github.com/MatteoCourquin/JEROME-BEZEAU) - Portfolio développé en TypeScript
+
+### 📊 Statistiques GitHub
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoCourquin&layout=compact&theme=tokyonight)](https://github.com/MatteoCourquin)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MatteoCourquin&show_icons=true&theme=tokyonight)](https://github.com/MatteoCourquin)
 
 ### 📫 Contact
 
