@@ -2,8 +2,6 @@
 
 ### ✨ Développeur Créatif | Co-fondateur @Metabole Studio
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=88CE02&vCenter=true&width=435&lines=D%C3%A9veloppeur+Front-end;Animation+%26+Exp%C3%A9riences+3D;Clean+Code+Enthusiast;UI%2FUX+Passionn%C3%A9" alt="Typing SVG" />
-
 Je transforme des concepts créatifs en expériences web interactives et immersives. À la frontière entre développement et design, j'apporte une approche innovante pour créer des sites web qui racontent des histoires.
 
 ### 🚀 Technologies & Outils
@@ -28,8 +26,8 @@ Je transforme des concepts créatifs en expériences web interactives et immersi
 
 ### 💼 Projets Récents
 
-- 🌐 [METABOLE-PROVISIONAL](https://github.com/MatteoCourquin/METABOLE-PROVISIONAL) - Site de l'agence Metabole Studio avec animations avancées et expériences interactives
-- 🎨 [JEROME-BEZEAU](https://github.com/MatteoCourquin/JEROME-BEZEAU) - Portfolio développé en TypeScript
+- 🌐 [Metabole Studio](https://www.metabole.studio/) - Site de l'agence Metabole Studio avec animations avancées et expériences interactives
+- 🎨 [Jérôme Bezeau](https://www.jeromebezeau.com/) - Portfolio artistique développé en TypeScript
 
 ### 📫 Contact
 
