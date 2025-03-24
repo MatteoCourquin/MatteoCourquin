@@ -19,19 +19,15 @@ I transform creative concepts into interactive and immersive web experiences. At
 - 🎨 [Jérôme Bezeau](https://jeromebezeau.com/) - Artistic portfolio developed in TypeScript
 
 ### 📫 Contact
-<p align="left">
-  <a href="https://www.linkedin.com/in/matteo-courquin/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:contact@matteocourquin.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://matteocourquin.com">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/matteo-courquin/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:contact@matteocourquin.com">
+  <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://matteocourquin.com">
+  <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+</a>
 
 ---
 *"Clean code is worth ten times more"*
