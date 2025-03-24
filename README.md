@@ -5,7 +5,7 @@ I transform creative concepts into interactive and immersive web experiences. At
 ### 🚀 Technologies & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,threejs,aws,figma,sass,apple,vercel,ps,ai,vue,vscode,nuxtjs,tailwind,github,angular&perline=9" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,threejs,aws,figma,sass,apple,vercel,ps,ai,vue,vscode,nuxtjs,tailwind,github,angular&perline=9&theme=light" />
   </a>
 </p>
 
