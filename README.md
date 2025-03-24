@@ -7,9 +7,7 @@ I transform creative concepts into interactive and immersive web experiences. At
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,threejs,aws,figma,vercel,ps,ai,js&perline=6" />
   </a>
-</p>
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="GSAP" width="48" height="48"/>
+  <img src="https://api.iconify.design/logos/greensock.svg" alt="GSAP" width="48" height="48" style="vertical-align: middle;"/>
 </p>
 
 ### 🔭 Currently
