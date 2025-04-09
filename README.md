@@ -5,7 +5,7 @@ I transform creative concepts into interactive and immersive web experiences. At
 ### 🚀 Technologies & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,vue,nuxtjs,angular,typescript,tailwind,sass,threejs,gsap,vercel,aws,github,figma,ps,ai,vscode,apple&perline=9&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,vue,nuxtjs,angular,typescript,tailwind,sass,threejs,vercel,aws,github,figma,ps,ai,vscode,apple,gsap&perline=9&theme=dark" />
   </a>
 </p>
 
@@ -16,6 +16,7 @@ I transform creative concepts into interactive and immersive web experiences. At
 
 ### 💼 Recent Projects
 - 🌐 [Metabole Studio](https://metabole.studio/) - Metabole Studio agency website with advanced animations and interactive experiences
+- 🏦 [Fortuneo](https://www.fortuneo.fr/) - Code implementation for the redesigned Fortuneo website, featuring smooth animations and engaging interactive elements
 - 🎨 [Jérôme Bezeau](https://jeromebezeau.com/) - Artistic portfolio developed in TypeScript
 
 ### 📫 Contact
