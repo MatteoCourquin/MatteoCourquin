@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Matteo
-### ✨ Creative Developer | Co-founder @[Metabole Studio](https://metabole.studio/)
+### ✨ Creative Developer | Co-founder [@Metabole Studio](https://metabole.studio/)
 I transform creative concepts into interactive and immersive web experiences. At the intersection of development and design, I bring an innovative approach to creating websites that tell stories.
 
 ### 🚀 Technologies & Tools
