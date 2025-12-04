@@ -9,8 +9,6 @@ I transform creative concepts into interactive and immersive web experiences. At
   </a>
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatteoCourquin&theme=github)
-
 ### 🔭 Currently
 - Co-founder of [Metabole Studio](https://metabole.studio) - We create unique web experiences blending animation, 3D and storytelling
 - Development of highly interactive user interfaces with GSAP and Three.js
@@ -37,6 +35,9 @@ I transform creative concepts into interactive and immersive web experiences. At
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
   </a>
 </div>
+
+### 💻 Activity
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatteoCourquin&theme=github)
 
 ---
 *"Clean code is worth ten times more"*
