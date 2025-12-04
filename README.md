@@ -1,4 +1,7 @@
 # 👋 Hello, I'm Matteo
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatteoCourquin&theme=github)
+
 ### ✨ CTO & Creative Developer | Co-founder [@Metabole Studio](https://metabole.studio/)
 I transform creative concepts into interactive and immersive web experiences. At the intersection of development and design, I bring an innovative approach to creating websites that tell stories.
 
@@ -35,9 +38,6 @@ I transform creative concepts into interactive and immersive web experiences. At
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
   </a>
 </div>
-
-### 💻 Activity
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatteoCourquin&theme=github)
 
 ---
 *"Clean code is worth ten times more"*
