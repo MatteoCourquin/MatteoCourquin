@@ -18,6 +18,8 @@ I transform creative concepts into interactive and immersive web experiences. At
 - Passionate about web performance optimization and accessibility
 
 ### 💼 Recent Projects
+- 🎥 [Altitude 101](https://immersive.altitude101.com/) - Altitude 101 is a video production studio crafting immersive films for Apple Vision Pro.
+- 💻 [Techunt](https://techunt.fr/) - Tech recruitment agency specialized in Data/AI/Blockchain.
 - 🌐 [Metabole Studio](https://metabole.studio/) - Metabole Studio agency website with advanced animations and interactive experiences
 - 🏦 [Fortuneo](https://www.fortuneo.fr/) - Code implementation for the redesigned Fortuneo website, featuring smooth animations and engaging interactive elements
 - 🎨 [Jérôme Bezeau](https://jeromebezeau.com/) - Artistic portfolio developed in TypeScript
